@@ -3,3 +3,9 @@ html {
   }
   
   /* Your CSS below here */
+  div {
+    width: 200px;
+
+    /* temporary so that I can see the box */
+    border: 1px solid red;
+  }
