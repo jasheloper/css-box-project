@@ -5,6 +5,7 @@ html {
   /* Your CSS below here */
   div {
     width: 200px;
+    text-align: center;
 
     /* temporary so that I can see the box */
     border: 1px solid red;
