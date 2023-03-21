@@ -1,11 +1,15 @@
 html {
     font-family: sans-serif;
+    font-size: 10px;
   }
   
   /* Your CSS below here */
   div {
     width: 200px;
     text-align: center;
+    
+    /* 10 x 1.7 = 17px*/
+    font-size: 1.7rem;
 
     /* temporary so that I can see the box */
     border: 1px solid red;
