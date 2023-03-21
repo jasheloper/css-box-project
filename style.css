@@ -7,10 +7,13 @@ html {
   div {
     width: 200px;
     text-align: center;
-    
+    background-color: #E40C00;
+    color: white;
+    text-shadow: 1px 1px 1px black;
+
     /* 10 x 1.7 = 17px*/
     font-size: 1.7rem;
-
+    
     /* temporary so that I can see the box */
     border: 1px solid red;
   }
