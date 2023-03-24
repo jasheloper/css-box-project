@@ -8,6 +8,10 @@ html {
     /* 10 x 1.7 = 17px*/
     font-size: 1.7rem;
     width: 200px;
+    height: 130px;
+    box-sizing: border-box;
+    padding: 30px;
+    margin: 0 auto;
     text-align: center;
     color: white;
     text-shadow: 1px 1px 1px black;
