@@ -15,7 +15,8 @@ html {
     border: 1px solid #c90c02;
     background: linear-gradient(
         to bottom,
-        rgba(0, 0, 0, 0) 30%,
+        rgba(0, 0, 0, 0),
+        30%, /* gradient hint */
         rgba(0, 0, 0, 0.2)
     );
     background-color: #E40C00;
