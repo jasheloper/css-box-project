@@ -3,7 +3,7 @@ Link: https://jasheloper.github.io/css-box-project/
 
 <br>
 
-![A cool-looking box](preview.png)
+![A cool-looking box](preview1.png)
 
 <br>
 
