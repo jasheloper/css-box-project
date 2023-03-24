@@ -1,3 +1,12 @@
+# Final Project (preview)
+Link: https://jasheloper.github.io/css-box-project/
+
+<br>
+
+![A cool-looking box](preview.png)
+
+<br>
+
 ## Objective
 To test comprehension of the CSS box model and other box-related features such as borders and backgrounds.
 
